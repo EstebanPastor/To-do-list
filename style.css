@@ -4,13 +4,13 @@ body {
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
-    background-color: lightseagreen;
+    background-color: rgb(102, 107, 107);
     color: white;
   }
   
   h1 {
     text-align: center;
-    color: rgb(13, 14, 14);
+    color: darkslategrey;
   }
   
   .container {
@@ -80,7 +80,7 @@ body {
   
   .btn-delete:hover {
     cursor: pointer;
-    background-color: lightseagreen;
+    background-color: rgb(19, 202, 102);
   }
   
   .btn-add {
@@ -88,14 +88,14 @@ body {
     border: none;
     color: white;
     font-family: fantasy;
-    background-color: teal;
+    background-color: rgb(19, 202, 102);
     font-size: 1.4rem;
     outline: none;
   }
   
   .btn-add:hover {
     cursor: pointer;
-    background-color: darkcyan;
+    background-color: rgb(0, 0, 0);
   }
   
   .empty {
